@@ -9,7 +9,7 @@ Startpage
 ### Preview
 <img src="home.gif" alt="Preview" width="100%"/>
 
-This is a fork of Matt's [startpage](https://github.com/mtwb47/startpage) with a image scroll option and larger option size.
+This is a fork of Matt's [startpage](https://github.com/mtwb47/startpage).
 
 ## Credits
 Images used in the sidebar are by background artist [Waneella](https://twitter.com/waneella_).
